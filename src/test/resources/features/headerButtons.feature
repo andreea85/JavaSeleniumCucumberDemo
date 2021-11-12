@@ -8,5 +8,5 @@ Feature: Header Button Testing
   Scenario: Testing Pricing Button
     Given Accessing the Home page
     When User clicks on Pricing Button
-    Then The Demo page is displayed
+    Then The Pricing page is displayed
 
